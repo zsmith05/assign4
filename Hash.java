@@ -5,8 +5,6 @@ public class Hash {
         protected int M = 1000; // number of chains
         private Node[] st; // array of chains
 
-
-
         static class Node<Key, value>
         {
             protected Object key;

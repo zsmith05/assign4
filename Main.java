@@ -43,8 +43,8 @@ public class Main {
             System.out.println("Your password is not strong enough.");
         }
 
-        chain.get("account8");
-        linear.get("account8");
+        chain.get(password);
+        linear.get(password);
 
 
 
